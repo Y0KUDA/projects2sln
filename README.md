@@ -5,7 +5,7 @@
 -----
 Automate generating a solution file(*.sln) binds project files(*.csproj,*.vbproj,*.vcxproj).  
 ![](./doc/fig1.png)
-Work like this.
+Work like this.  
 ![](./doc/mov1.gif)
 
 
@@ -17,7 +17,7 @@ Work like this.
 	* Powershell
 1. download p2j.ps1 from here.
 1. Execute p2j.ps1 in Powershell like this `PS > p2j.ps1 <PathToRootOfProjects>`
-	* This software searches project file recurse from <PathToRootOfProjects>.
+	* This software searches project file recurse from `<PathToRootOfProjects>`.
 1. You can find "Solution.sln" current directory.
 	
 ## LICENSE
